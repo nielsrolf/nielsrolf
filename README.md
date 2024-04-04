@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niels Warncke</h1>
 
-I do a lot with AI - because it is fascinating, but also because it is [concerning]().
+I do a lot with AI - because it is fascinating, but also because it is [concerning](https://www.safe.ai/work/statement-on-ai-risk).
 
 ## Projects
 
