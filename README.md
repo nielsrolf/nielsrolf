@@ -4,6 +4,21 @@ I do a lot with AI - because it is fascinating, but also because it is [concerni
 
 ## Projects
 
+### Research tools
+<details>
+  <summary>Experiment tracking: Key-Value-Artifact store</summary>
+  KVA is a simple key-value-artifact store designed to log and retrieve data. It is like wandb, but less headache.
+  At its heart, it is a append-only JSON store with some helpers to easily retrieve data and handle files, and comes with a basic UI.
+
+  <a href="https://github.com/nielsrolf/kva">More</a>
+</details>
+
+<details>
+  <summary>Asana GPU task queue</summary>
+  Ideally, you want to keep your GPU busy 100% of the time and maintain a backlog of experiments that are automatically run in the background. You also want to keep track of what has been run, what needs to be run, and write down notes or tag collaborators. For this, you can use <a href="https://github.com/nielsrolf/asana-worker">experisana</a> - a tool to schedule tasks in an asana board and a worker that fetches tasks from a backlog, runs them, and puts them into 'Done' or 'Failed' columns.
+
+</details>
+
 ### Evals
 
 <details>
